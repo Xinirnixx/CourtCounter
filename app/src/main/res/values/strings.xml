@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tennis Counter</string>
+    <string name="name_hint_a">Name of Player A</string>
+    <string name="name_hint_b">Name of Player B</string>
+    <string name="score_value">0</string>
+    <string name="player_a">Player A: </string>
+    <string name="player_b">Player B: </string>
+    <string name="button1_text">POINT</string>
+    <string name="button_reset">NEW GAME</string>
+</resources>
